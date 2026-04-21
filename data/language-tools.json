@@ -2937,6 +2937,2944 @@
       "target_locale": "zh-TW",
       "type": "language",
       "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-zh-tw/"
+    },
+    {
+      "id": 114,
+      "current_compatible_version": {
+        "id": 114,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ach.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ach.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ach"
+      },
+      "guid": "langpack-ach@firefox.mozilla.org",
+      "slug": "firefox-langpack-ach",
+      "target_locale": "ach",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ach/"
+    },
+    {
+      "id": 115,
+      "current_compatible_version": {
+        "id": 115,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.af.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.af.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for af"
+      },
+      "guid": "langpack-af@firefox.mozilla.org",
+      "slug": "firefox-langpack-af",
+      "target_locale": "af",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-af/"
+    },
+    {
+      "id": 116,
+      "current_compatible_version": {
+        "id": 116,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.an.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.an.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for an"
+      },
+      "guid": "langpack-an@firefox.mozilla.org",
+      "slug": "firefox-langpack-an",
+      "target_locale": "an",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-an/"
+    },
+    {
+      "id": 117,
+      "current_compatible_version": {
+        "id": 117,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ar.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ar.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ar"
+      },
+      "guid": "langpack-ar@firefox.mozilla.org",
+      "slug": "firefox-langpack-ar",
+      "target_locale": "ar",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ar/"
+    },
+    {
+      "id": 118,
+      "current_compatible_version": {
+        "id": 118,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ast.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ast.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ast"
+      },
+      "guid": "langpack-ast@firefox.mozilla.org",
+      "slug": "firefox-langpack-ast",
+      "target_locale": "ast",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ast/"
+    },
+    {
+      "id": 119,
+      "current_compatible_version": {
+        "id": 119,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.az.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.az.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for az"
+      },
+      "guid": "langpack-az@firefox.mozilla.org",
+      "slug": "firefox-langpack-az",
+      "target_locale": "az",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-az/"
+    },
+    {
+      "id": 120,
+      "current_compatible_version": {
+        "id": 120,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.be.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.be.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for be"
+      },
+      "guid": "langpack-be@firefox.mozilla.org",
+      "slug": "firefox-langpack-be",
+      "target_locale": "be",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-be/"
+    },
+    {
+      "id": 121,
+      "current_compatible_version": {
+        "id": 121,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bg.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bg.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for bg"
+      },
+      "guid": "langpack-bg@firefox.mozilla.org",
+      "slug": "firefox-langpack-bg",
+      "target_locale": "bg",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-bg/"
+    },
+    {
+      "id": 122,
+      "current_compatible_version": {
+        "id": 122,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bn.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bn.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for bn"
+      },
+      "guid": "langpack-bn@firefox.mozilla.org",
+      "slug": "firefox-langpack-bn",
+      "target_locale": "bn",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-bn/"
+    },
+    {
+      "id": 123,
+      "current_compatible_version": {
+        "id": 123,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bo.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bo.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for bo"
+      },
+      "guid": "langpack-bo@firefox.mozilla.org",
+      "slug": "firefox-langpack-bo",
+      "target_locale": "bo",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-bo/"
+    },
+    {
+      "id": 124,
+      "current_compatible_version": {
+        "id": 124,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bqi.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bqi.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for bqi"
+      },
+      "guid": "langpack-bqi@firefox.mozilla.org",
+      "slug": "firefox-langpack-bqi",
+      "target_locale": "bqi",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-bqi/"
+    },
+    {
+      "id": 125,
+      "current_compatible_version": {
+        "id": 125,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.br.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.br.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for br"
+      },
+      "guid": "langpack-br@firefox.mozilla.org",
+      "slug": "firefox-langpack-br",
+      "target_locale": "br",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-br/"
+    },
+    {
+      "id": 126,
+      "current_compatible_version": {
+        "id": 126,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.brx.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.brx.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for brx"
+      },
+      "guid": "langpack-brx@firefox.mozilla.org",
+      "slug": "firefox-langpack-brx",
+      "target_locale": "brx",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-brx/"
+    },
+    {
+      "id": 127,
+      "current_compatible_version": {
+        "id": 127,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bs.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.bs.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for bs"
+      },
+      "guid": "langpack-bs@firefox.mozilla.org",
+      "slug": "firefox-langpack-bs",
+      "target_locale": "bs",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-bs/"
+    },
+    {
+      "id": 128,
+      "current_compatible_version": {
+        "id": 128,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ca-valencia.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ca-valencia.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ca-valencia"
+      },
+      "guid": "langpack-ca-valencia@firefox.mozilla.org",
+      "slug": "firefox-langpack-ca-valencia",
+      "target_locale": "ca-valencia",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ca-valencia/"
+    },
+    {
+      "id": 129,
+      "current_compatible_version": {
+        "id": 129,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ca.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ca.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ca"
+      },
+      "guid": "langpack-ca@firefox.mozilla.org",
+      "slug": "firefox-langpack-ca",
+      "target_locale": "ca",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ca/"
+    },
+    {
+      "id": 130,
+      "current_compatible_version": {
+        "id": 130,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.cak.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.cak.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for cak"
+      },
+      "guid": "langpack-cak@firefox.mozilla.org",
+      "slug": "firefox-langpack-cak",
+      "target_locale": "cak",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-cak/"
+    },
+    {
+      "id": 131,
+      "current_compatible_version": {
+        "id": 131,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ckb.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ckb.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ckb"
+      },
+      "guid": "langpack-ckb@firefox.mozilla.org",
+      "slug": "firefox-langpack-ckb",
+      "target_locale": "ckb",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ckb/"
+    },
+    {
+      "id": 132,
+      "current_compatible_version": {
+        "id": 132,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.cs.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.cs.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for cs"
+      },
+      "guid": "langpack-cs@firefox.mozilla.org",
+      "slug": "firefox-langpack-cs",
+      "target_locale": "cs",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-cs/"
+    },
+    {
+      "id": 133,
+      "current_compatible_version": {
+        "id": 133,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.cy.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.cy.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for cy"
+      },
+      "guid": "langpack-cy@firefox.mozilla.org",
+      "slug": "firefox-langpack-cy",
+      "target_locale": "cy",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-cy/"
+    },
+    {
+      "id": 134,
+      "current_compatible_version": {
+        "id": 134,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.da.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.da.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for da"
+      },
+      "guid": "langpack-da@firefox.mozilla.org",
+      "slug": "firefox-langpack-da",
+      "target_locale": "da",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-da/"
+    },
+    {
+      "id": 135,
+      "current_compatible_version": {
+        "id": 135,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.de.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.de.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for de"
+      },
+      "guid": "langpack-de@firefox.mozilla.org",
+      "slug": "firefox-langpack-de",
+      "target_locale": "de",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-de/"
+    },
+    {
+      "id": 136,
+      "current_compatible_version": {
+        "id": 136,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.dsb.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.dsb.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for dsb"
+      },
+      "guid": "langpack-dsb@firefox.mozilla.org",
+      "slug": "firefox-langpack-dsb",
+      "target_locale": "dsb",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-dsb/"
+    },
+    {
+      "id": 137,
+      "current_compatible_version": {
+        "id": 137,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.el.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.el.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for el"
+      },
+      "guid": "langpack-el@firefox.mozilla.org",
+      "slug": "firefox-langpack-el",
+      "target_locale": "el",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-el/"
+    },
+    {
+      "id": 138,
+      "current_compatible_version": {
+        "id": 138,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.en-CA.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.en-CA.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for en-CA"
+      },
+      "guid": "langpack-en-CA@firefox.mozilla.org",
+      "slug": "firefox-langpack-en-ca",
+      "target_locale": "en-CA",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-en-ca/"
+    },
+    {
+      "id": 139,
+      "current_compatible_version": {
+        "id": 139,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.en-GB.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.en-GB.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for en-GB"
+      },
+      "guid": "langpack-en-GB@firefox.mozilla.org",
+      "slug": "firefox-langpack-en-gb",
+      "target_locale": "en-GB",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-en-gb/"
+    },
+    {
+      "id": 140,
+      "current_compatible_version": {
+        "id": 140,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.eo.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.eo.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for eo"
+      },
+      "guid": "langpack-eo@firefox.mozilla.org",
+      "slug": "firefox-langpack-eo",
+      "target_locale": "eo",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-eo/"
+    },
+    {
+      "id": 141,
+      "current_compatible_version": {
+        "id": 141,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-AR.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-AR.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for es-AR"
+      },
+      "guid": "langpack-es-AR@firefox.mozilla.org",
+      "slug": "firefox-langpack-es-ar",
+      "target_locale": "es-AR",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-es-ar/"
+    },
+    {
+      "id": 142,
+      "current_compatible_version": {
+        "id": 142,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-CL.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-CL.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for es-CL"
+      },
+      "guid": "langpack-es-CL@firefox.mozilla.org",
+      "slug": "firefox-langpack-es-cl",
+      "target_locale": "es-CL",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-es-cl/"
+    },
+    {
+      "id": 143,
+      "current_compatible_version": {
+        "id": 143,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-ES.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-ES.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for es-ES"
+      },
+      "guid": "langpack-es-ES@firefox.mozilla.org",
+      "slug": "firefox-langpack-es-es",
+      "target_locale": "es-ES",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-es-es/"
+    },
+    {
+      "id": 144,
+      "current_compatible_version": {
+        "id": 144,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-MX.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.es-MX.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for es-MX"
+      },
+      "guid": "langpack-es-MX@firefox.mozilla.org",
+      "slug": "firefox-langpack-es-mx",
+      "target_locale": "es-MX",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-es-mx/"
+    },
+    {
+      "id": 145,
+      "current_compatible_version": {
+        "id": 145,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.et.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.et.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for et"
+      },
+      "guid": "langpack-et@firefox.mozilla.org",
+      "slug": "firefox-langpack-et",
+      "target_locale": "et",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-et/"
+    },
+    {
+      "id": 146,
+      "current_compatible_version": {
+        "id": 146,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.eu.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.eu.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for eu"
+      },
+      "guid": "langpack-eu@firefox.mozilla.org",
+      "slug": "firefox-langpack-eu",
+      "target_locale": "eu",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-eu/"
+    },
+    {
+      "id": 147,
+      "current_compatible_version": {
+        "id": 147,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fa.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fa.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for fa"
+      },
+      "guid": "langpack-fa@firefox.mozilla.org",
+      "slug": "firefox-langpack-fa",
+      "target_locale": "fa",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-fa/"
+    },
+    {
+      "id": 148,
+      "current_compatible_version": {
+        "id": 148,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ff.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ff.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ff"
+      },
+      "guid": "langpack-ff@firefox.mozilla.org",
+      "slug": "firefox-langpack-ff",
+      "target_locale": "ff",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ff/"
+    },
+    {
+      "id": 149,
+      "current_compatible_version": {
+        "id": 149,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fi.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fi.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for fi"
+      },
+      "guid": "langpack-fi@firefox.mozilla.org",
+      "slug": "firefox-langpack-fi",
+      "target_locale": "fi",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-fi/"
+    },
+    {
+      "id": 150,
+      "current_compatible_version": {
+        "id": 150,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fr.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fr.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for fr"
+      },
+      "guid": "langpack-fr@firefox.mozilla.org",
+      "slug": "firefox-langpack-fr",
+      "target_locale": "fr",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-fr/"
+    },
+    {
+      "id": 151,
+      "current_compatible_version": {
+        "id": 151,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fur.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fur.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for fur"
+      },
+      "guid": "langpack-fur@firefox.mozilla.org",
+      "slug": "firefox-langpack-fur",
+      "target_locale": "fur",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-fur/"
+    },
+    {
+      "id": 152,
+      "current_compatible_version": {
+        "id": 152,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fy-NL.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.fy-NL.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for fy-NL"
+      },
+      "guid": "langpack-fy-NL@firefox.mozilla.org",
+      "slug": "firefox-langpack-fy-nl",
+      "target_locale": "fy-NL",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-fy-nl/"
+    },
+    {
+      "id": 153,
+      "current_compatible_version": {
+        "id": 153,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ga-IE.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ga-IE.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ga-IE"
+      },
+      "guid": "langpack-ga-IE@firefox.mozilla.org",
+      "slug": "firefox-langpack-ga-ie",
+      "target_locale": "ga-IE",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ga-ie/"
+    },
+    {
+      "id": 154,
+      "current_compatible_version": {
+        "id": 154,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gd.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gd.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for gd"
+      },
+      "guid": "langpack-gd@firefox.mozilla.org",
+      "slug": "firefox-langpack-gd",
+      "target_locale": "gd",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-gd/"
+    },
+    {
+      "id": 155,
+      "current_compatible_version": {
+        "id": 155,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gl.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gl.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for gl"
+      },
+      "guid": "langpack-gl@firefox.mozilla.org",
+      "slug": "firefox-langpack-gl",
+      "target_locale": "gl",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-gl/"
+    },
+    {
+      "id": 156,
+      "current_compatible_version": {
+        "id": 156,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gn.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gn.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for gn"
+      },
+      "guid": "langpack-gn@firefox.mozilla.org",
+      "slug": "firefox-langpack-gn",
+      "target_locale": "gn",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-gn/"
+    },
+    {
+      "id": 157,
+      "current_compatible_version": {
+        "id": 157,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gu-IN.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.gu-IN.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for gu-IN"
+      },
+      "guid": "langpack-gu-IN@firefox.mozilla.org",
+      "slug": "firefox-langpack-gu-in",
+      "target_locale": "gu-IN",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-gu-in/"
+    },
+    {
+      "id": 158,
+      "current_compatible_version": {
+        "id": 158,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.he.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.he.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for he"
+      },
+      "guid": "langpack-he@firefox.mozilla.org",
+      "slug": "firefox-langpack-he",
+      "target_locale": "he",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-he/"
+    },
+    {
+      "id": 159,
+      "current_compatible_version": {
+        "id": 159,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hi-IN.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hi-IN.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for hi-IN"
+      },
+      "guid": "langpack-hi-IN@firefox.mozilla.org",
+      "slug": "firefox-langpack-hi-in",
+      "target_locale": "hi-IN",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-hi-in/"
+    },
+    {
+      "id": 160,
+      "current_compatible_version": {
+        "id": 160,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hr.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hr.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for hr"
+      },
+      "guid": "langpack-hr@firefox.mozilla.org",
+      "slug": "firefox-langpack-hr",
+      "target_locale": "hr",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-hr/"
+    },
+    {
+      "id": 161,
+      "current_compatible_version": {
+        "id": 161,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hsb.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hsb.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for hsb"
+      },
+      "guid": "langpack-hsb@firefox.mozilla.org",
+      "slug": "firefox-langpack-hsb",
+      "target_locale": "hsb",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-hsb/"
+    },
+    {
+      "id": 162,
+      "current_compatible_version": {
+        "id": 162,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hu.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hu.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for hu"
+      },
+      "guid": "langpack-hu@firefox.mozilla.org",
+      "slug": "firefox-langpack-hu",
+      "target_locale": "hu",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-hu/"
+    },
+    {
+      "id": 163,
+      "current_compatible_version": {
+        "id": 163,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hy-AM.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hy-AM.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for hy-AM"
+      },
+      "guid": "langpack-hy-AM@firefox.mozilla.org",
+      "slug": "firefox-langpack-hy-am",
+      "target_locale": "hy-AM",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-hy-am/"
+    },
+    {
+      "id": 164,
+      "current_compatible_version": {
+        "id": 164,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hye.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.hye.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for hye"
+      },
+      "guid": "langpack-hye@firefox.mozilla.org",
+      "slug": "firefox-langpack-hye",
+      "target_locale": "hye",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-hye/"
+    },
+    {
+      "id": 165,
+      "current_compatible_version": {
+        "id": 165,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ia.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ia.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ia"
+      },
+      "guid": "langpack-ia@firefox.mozilla.org",
+      "slug": "firefox-langpack-ia",
+      "target_locale": "ia",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ia/"
+    },
+    {
+      "id": 166,
+      "current_compatible_version": {
+        "id": 166,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.id.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.id.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for id"
+      },
+      "guid": "langpack-id@firefox.mozilla.org",
+      "slug": "firefox-langpack-id",
+      "target_locale": "id",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-id/"
+    },
+    {
+      "id": 167,
+      "current_compatible_version": {
+        "id": 167,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.is.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.is.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for is"
+      },
+      "guid": "langpack-is@firefox.mozilla.org",
+      "slug": "firefox-langpack-is",
+      "target_locale": "is",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-is/"
+    },
+    {
+      "id": 168,
+      "current_compatible_version": {
+        "id": 168,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.it.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.it.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for it"
+      },
+      "guid": "langpack-it@firefox.mozilla.org",
+      "slug": "firefox-langpack-it",
+      "target_locale": "it",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-it/"
+    },
+    {
+      "id": 169,
+      "current_compatible_version": {
+        "id": 169,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ja.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ja.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ja"
+      },
+      "guid": "langpack-ja@firefox.mozilla.org",
+      "slug": "firefox-langpack-ja",
+      "target_locale": "ja",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ja/"
+    },
+    {
+      "id": 170,
+      "current_compatible_version": {
+        "id": 170,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ka.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ka.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ka"
+      },
+      "guid": "langpack-ka@firefox.mozilla.org",
+      "slug": "firefox-langpack-ka",
+      "target_locale": "ka",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ka/"
+    },
+    {
+      "id": 171,
+      "current_compatible_version": {
+        "id": 171,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.kab.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.kab.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for kab"
+      },
+      "guid": "langpack-kab@firefox.mozilla.org",
+      "slug": "firefox-langpack-kab",
+      "target_locale": "kab",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-kab/"
+    },
+    {
+      "id": 172,
+      "current_compatible_version": {
+        "id": 172,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.kk.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.kk.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for kk"
+      },
+      "guid": "langpack-kk@firefox.mozilla.org",
+      "slug": "firefox-langpack-kk",
+      "target_locale": "kk",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-kk/"
+    },
+    {
+      "id": 173,
+      "current_compatible_version": {
+        "id": 173,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.km.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.km.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for km"
+      },
+      "guid": "langpack-km@firefox.mozilla.org",
+      "slug": "firefox-langpack-km",
+      "target_locale": "km",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-km/"
+    },
+    {
+      "id": 174,
+      "current_compatible_version": {
+        "id": 174,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.kn.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.kn.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for kn"
+      },
+      "guid": "langpack-kn@firefox.mozilla.org",
+      "slug": "firefox-langpack-kn",
+      "target_locale": "kn",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-kn/"
+    },
+    {
+      "id": 175,
+      "current_compatible_version": {
+        "id": 175,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ko.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ko.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ko"
+      },
+      "guid": "langpack-ko@firefox.mozilla.org",
+      "slug": "firefox-langpack-ko",
+      "target_locale": "ko",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ko/"
+    },
+    {
+      "id": 176,
+      "current_compatible_version": {
+        "id": 176,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lij.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lij.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for lij"
+      },
+      "guid": "langpack-lij@firefox.mozilla.org",
+      "slug": "firefox-langpack-lij",
+      "target_locale": "lij",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-lij/"
+    },
+    {
+      "id": 177,
+      "current_compatible_version": {
+        "id": 177,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lo.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lo.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for lo"
+      },
+      "guid": "langpack-lo@firefox.mozilla.org",
+      "slug": "firefox-langpack-lo",
+      "target_locale": "lo",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-lo/"
+    },
+    {
+      "id": 178,
+      "current_compatible_version": {
+        "id": 178,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lt.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lt.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for lt"
+      },
+      "guid": "langpack-lt@firefox.mozilla.org",
+      "slug": "firefox-langpack-lt",
+      "target_locale": "lt",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-lt/"
+    },
+    {
+      "id": 179,
+      "current_compatible_version": {
+        "id": 179,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ltg.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ltg.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ltg"
+      },
+      "guid": "langpack-ltg@firefox.mozilla.org",
+      "slug": "firefox-langpack-ltg",
+      "target_locale": "ltg",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ltg/"
+    },
+    {
+      "id": 180,
+      "current_compatible_version": {
+        "id": 180,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lv.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.lv.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for lv"
+      },
+      "guid": "langpack-lv@firefox.mozilla.org",
+      "slug": "firefox-langpack-lv",
+      "target_locale": "lv",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-lv/"
+    },
+    {
+      "id": 181,
+      "current_compatible_version": {
+        "id": 181,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.meh.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.meh.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for meh"
+      },
+      "guid": "langpack-meh@firefox.mozilla.org",
+      "slug": "firefox-langpack-meh",
+      "target_locale": "meh",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-meh/"
+    },
+    {
+      "id": 182,
+      "current_compatible_version": {
+        "id": 182,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.mk.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.mk.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for mk"
+      },
+      "guid": "langpack-mk@firefox.mozilla.org",
+      "slug": "firefox-langpack-mk",
+      "target_locale": "mk",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-mk/"
+    },
+    {
+      "id": 183,
+      "current_compatible_version": {
+        "id": 183,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ml.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ml.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ml"
+      },
+      "guid": "langpack-ml@firefox.mozilla.org",
+      "slug": "firefox-langpack-ml",
+      "target_locale": "ml",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ml/"
+    },
+    {
+      "id": 184,
+      "current_compatible_version": {
+        "id": 184,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.mr.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.mr.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for mr"
+      },
+      "guid": "langpack-mr@firefox.mozilla.org",
+      "slug": "firefox-langpack-mr",
+      "target_locale": "mr",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-mr/"
+    },
+    {
+      "id": 185,
+      "current_compatible_version": {
+        "id": 185,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ms.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ms.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ms"
+      },
+      "guid": "langpack-ms@firefox.mozilla.org",
+      "slug": "firefox-langpack-ms",
+      "target_locale": "ms",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ms/"
+    },
+    {
+      "id": 186,
+      "current_compatible_version": {
+        "id": 186,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.my.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.my.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for my"
+      },
+      "guid": "langpack-my@firefox.mozilla.org",
+      "slug": "firefox-langpack-my",
+      "target_locale": "my",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-my/"
+    },
+    {
+      "id": 187,
+      "current_compatible_version": {
+        "id": 187,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.nb-NO.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.nb-NO.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for nb-NO"
+      },
+      "guid": "langpack-nb-NO@firefox.mozilla.org",
+      "slug": "firefox-langpack-nb-no",
+      "target_locale": "nb-NO",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-nb-no/"
+    },
+    {
+      "id": 188,
+      "current_compatible_version": {
+        "id": 188,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ne-NP.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ne-NP.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ne-NP"
+      },
+      "guid": "langpack-ne-NP@firefox.mozilla.org",
+      "slug": "firefox-langpack-ne-np",
+      "target_locale": "ne-NP",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ne-np/"
+    },
+    {
+      "id": 189,
+      "current_compatible_version": {
+        "id": 189,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.nl.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.nl.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for nl"
+      },
+      "guid": "langpack-nl@firefox.mozilla.org",
+      "slug": "firefox-langpack-nl",
+      "target_locale": "nl",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-nl/"
+    },
+    {
+      "id": 190,
+      "current_compatible_version": {
+        "id": 190,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.nn-NO.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.nn-NO.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for nn-NO"
+      },
+      "guid": "langpack-nn-NO@firefox.mozilla.org",
+      "slug": "firefox-langpack-nn-no",
+      "target_locale": "nn-NO",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-nn-no/"
+    },
+    {
+      "id": 191,
+      "current_compatible_version": {
+        "id": 191,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.oc.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.oc.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for oc"
+      },
+      "guid": "langpack-oc@firefox.mozilla.org",
+      "slug": "firefox-langpack-oc",
+      "target_locale": "oc",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-oc/"
+    },
+    {
+      "id": 192,
+      "current_compatible_version": {
+        "id": 192,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pa-IN.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pa-IN.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for pa-IN"
+      },
+      "guid": "langpack-pa-IN@firefox.mozilla.org",
+      "slug": "firefox-langpack-pa-in",
+      "target_locale": "pa-IN",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-pa-in/"
+    },
+    {
+      "id": 193,
+      "current_compatible_version": {
+        "id": 193,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pl.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pl.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for pl"
+      },
+      "guid": "langpack-pl@firefox.mozilla.org",
+      "slug": "firefox-langpack-pl",
+      "target_locale": "pl",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-pl/"
+    },
+    {
+      "id": 194,
+      "current_compatible_version": {
+        "id": 194,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pt-BR.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pt-BR.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for pt-BR"
+      },
+      "guid": "langpack-pt-BR@firefox.mozilla.org",
+      "slug": "firefox-langpack-pt-br",
+      "target_locale": "pt-BR",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-pt-br/"
+    },
+    {
+      "id": 195,
+      "current_compatible_version": {
+        "id": 195,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pt-PT.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.pt-PT.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for pt-PT"
+      },
+      "guid": "langpack-pt-PT@firefox.mozilla.org",
+      "slug": "firefox-langpack-pt-pt",
+      "target_locale": "pt-PT",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-pt-pt/"
+    },
+    {
+      "id": 196,
+      "current_compatible_version": {
+        "id": 196,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.rm.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.rm.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for rm"
+      },
+      "guid": "langpack-rm@firefox.mozilla.org",
+      "slug": "firefox-langpack-rm",
+      "target_locale": "rm",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-rm/"
+    },
+    {
+      "id": 197,
+      "current_compatible_version": {
+        "id": 197,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ro.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ro.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ro"
+      },
+      "guid": "langpack-ro@firefox.mozilla.org",
+      "slug": "firefox-langpack-ro",
+      "target_locale": "ro",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ro/"
+    },
+    {
+      "id": 198,
+      "current_compatible_version": {
+        "id": 198,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ru.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ru.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ru"
+      },
+      "guid": "langpack-ru@firefox.mozilla.org",
+      "slug": "firefox-langpack-ru",
+      "target_locale": "ru",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ru/"
+    },
+    {
+      "id": 199,
+      "current_compatible_version": {
+        "id": 199,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sat.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sat.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sat"
+      },
+      "guid": "langpack-sat@firefox.mozilla.org",
+      "slug": "firefox-langpack-sat",
+      "target_locale": "sat",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sat/"
+    },
+    {
+      "id": 200,
+      "current_compatible_version": {
+        "id": 200,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sc.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sc.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sc"
+      },
+      "guid": "langpack-sc@firefox.mozilla.org",
+      "slug": "firefox-langpack-sc",
+      "target_locale": "sc",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sc/"
+    },
+    {
+      "id": 201,
+      "current_compatible_version": {
+        "id": 201,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.scn.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.scn.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for scn"
+      },
+      "guid": "langpack-scn@firefox.mozilla.org",
+      "slug": "firefox-langpack-scn",
+      "target_locale": "scn",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-scn/"
+    },
+    {
+      "id": 202,
+      "current_compatible_version": {
+        "id": 202,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sco.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sco.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sco"
+      },
+      "guid": "langpack-sco@firefox.mozilla.org",
+      "slug": "firefox-langpack-sco",
+      "target_locale": "sco",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sco/"
+    },
+    {
+      "id": 203,
+      "current_compatible_version": {
+        "id": 203,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.si.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.si.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for si"
+      },
+      "guid": "langpack-si@firefox.mozilla.org",
+      "slug": "firefox-langpack-si",
+      "target_locale": "si",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-si/"
+    },
+    {
+      "id": 204,
+      "current_compatible_version": {
+        "id": 204,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sk.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sk.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sk"
+      },
+      "guid": "langpack-sk@firefox.mozilla.org",
+      "slug": "firefox-langpack-sk",
+      "target_locale": "sk",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sk/"
+    },
+    {
+      "id": 205,
+      "current_compatible_version": {
+        "id": 205,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.skr.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.skr.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for skr"
+      },
+      "guid": "langpack-skr@firefox.mozilla.org",
+      "slug": "firefox-langpack-skr",
+      "target_locale": "skr",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-skr/"
+    },
+    {
+      "id": 206,
+      "current_compatible_version": {
+        "id": 206,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sl.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sl.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sl"
+      },
+      "guid": "langpack-sl@firefox.mozilla.org",
+      "slug": "firefox-langpack-sl",
+      "target_locale": "sl",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sl/"
+    },
+    {
+      "id": 207,
+      "current_compatible_version": {
+        "id": 207,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.son.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.son.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for son"
+      },
+      "guid": "langpack-son@firefox.mozilla.org",
+      "slug": "firefox-langpack-son",
+      "target_locale": "son",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-son/"
+    },
+    {
+      "id": 208,
+      "current_compatible_version": {
+        "id": 208,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sq.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sq.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sq"
+      },
+      "guid": "langpack-sq@firefox.mozilla.org",
+      "slug": "firefox-langpack-sq",
+      "target_locale": "sq",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sq/"
+    },
+    {
+      "id": 209,
+      "current_compatible_version": {
+        "id": 209,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sr.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sr.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sr"
+      },
+      "guid": "langpack-sr@firefox.mozilla.org",
+      "slug": "firefox-langpack-sr",
+      "target_locale": "sr",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sr/"
+    },
+    {
+      "id": 210,
+      "current_compatible_version": {
+        "id": 210,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sv-SE.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.sv-SE.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for sv-SE"
+      },
+      "guid": "langpack-sv-SE@firefox.mozilla.org",
+      "slug": "firefox-langpack-sv-se",
+      "target_locale": "sv-SE",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-sv-se/"
+    },
+    {
+      "id": 211,
+      "current_compatible_version": {
+        "id": 211,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.szl.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.szl.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for szl"
+      },
+      "guid": "langpack-szl@firefox.mozilla.org",
+      "slug": "firefox-langpack-szl",
+      "target_locale": "szl",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-szl/"
+    },
+    {
+      "id": 212,
+      "current_compatible_version": {
+        "id": 212,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ta.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ta.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ta"
+      },
+      "guid": "langpack-ta@firefox.mozilla.org",
+      "slug": "firefox-langpack-ta",
+      "target_locale": "ta",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ta/"
+    },
+    {
+      "id": 213,
+      "current_compatible_version": {
+        "id": 213,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.te.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.te.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for te"
+      },
+      "guid": "langpack-te@firefox.mozilla.org",
+      "slug": "firefox-langpack-te",
+      "target_locale": "te",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-te/"
+    },
+    {
+      "id": 214,
+      "current_compatible_version": {
+        "id": 214,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.tg.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.tg.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for tg"
+      },
+      "guid": "langpack-tg@firefox.mozilla.org",
+      "slug": "firefox-langpack-tg",
+      "target_locale": "tg",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-tg/"
+    },
+    {
+      "id": 215,
+      "current_compatible_version": {
+        "id": 215,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.th.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.th.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for th"
+      },
+      "guid": "langpack-th@firefox.mozilla.org",
+      "slug": "firefox-langpack-th",
+      "target_locale": "th",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-th/"
+    },
+    {
+      "id": 216,
+      "current_compatible_version": {
+        "id": 216,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.tl.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.tl.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for tl"
+      },
+      "guid": "langpack-tl@firefox.mozilla.org",
+      "slug": "firefox-langpack-tl",
+      "target_locale": "tl",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-tl/"
+    },
+    {
+      "id": 217,
+      "current_compatible_version": {
+        "id": 217,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.tr.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.tr.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for tr"
+      },
+      "guid": "langpack-tr@firefox.mozilla.org",
+      "slug": "firefox-langpack-tr",
+      "target_locale": "tr",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-tr/"
+    },
+    {
+      "id": 218,
+      "current_compatible_version": {
+        "id": 218,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.trs.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.trs.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for trs"
+      },
+      "guid": "langpack-trs@firefox.mozilla.org",
+      "slug": "firefox-langpack-trs",
+      "target_locale": "trs",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-trs/"
+    },
+    {
+      "id": 219,
+      "current_compatible_version": {
+        "id": 219,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.uk.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.uk.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for uk"
+      },
+      "guid": "langpack-uk@firefox.mozilla.org",
+      "slug": "firefox-langpack-uk",
+      "target_locale": "uk",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-uk/"
+    },
+    {
+      "id": 220,
+      "current_compatible_version": {
+        "id": 220,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ur.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.ur.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for ur"
+      },
+      "guid": "langpack-ur@firefox.mozilla.org",
+      "slug": "firefox-langpack-ur",
+      "target_locale": "ur",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-ur/"
+    },
+    {
+      "id": 221,
+      "current_compatible_version": {
+        "id": 221,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.uz.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.uz.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for uz"
+      },
+      "guid": "langpack-uz@firefox.mozilla.org",
+      "slug": "firefox-langpack-uz",
+      "target_locale": "uz",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-uz/"
+    },
+    {
+      "id": 222,
+      "current_compatible_version": {
+        "id": 222,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.vi.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.vi.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for vi"
+      },
+      "guid": "langpack-vi@firefox.mozilla.org",
+      "slug": "firefox-langpack-vi",
+      "target_locale": "vi",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-vi/"
+    },
+    {
+      "id": 223,
+      "current_compatible_version": {
+        "id": 223,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.wo.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.wo.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for wo"
+      },
+      "guid": "langpack-wo@firefox.mozilla.org",
+      "slug": "firefox-langpack-wo",
+      "target_locale": "wo",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-wo/"
+    },
+    {
+      "id": 224,
+      "current_compatible_version": {
+        "id": 224,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.xh.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.xh.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for xh"
+      },
+      "guid": "langpack-xh@firefox.mozilla.org",
+      "slug": "firefox-langpack-xh",
+      "target_locale": "xh",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-xh/"
+    },
+    {
+      "id": 225,
+      "current_compatible_version": {
+        "id": 225,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.zh-CN.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.zh-CN.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for zh-CN"
+      },
+      "guid": "langpack-zh-CN@firefox.mozilla.org",
+      "slug": "firefox-langpack-zh-cn",
+      "target_locale": "zh-CN",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-zh-cn/"
+    },
+    {
+      "id": 226,
+      "current_compatible_version": {
+        "id": 226,
+        "file": {
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.zh-TW.langpack.xpi"
+        },
+        "files": [
+          {
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-152.0a1.zh-TW.langpack.xpi",
+            "platform": "all"
+          }
+        ],
+        "reviewed": null,
+        "version": "152.0a1"
+      },
+      "default_locale": "en-US",
+      "name": {
+        "en-US": "Firefox Language Pack for zh-TW"
+      },
+      "guid": "langpack-zh-TW@firefox.mozilla.org",
+      "slug": "firefox-langpack-zh-tw",
+      "target_locale": "zh-TW",
+      "type": "language",
+      "url": "https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-zh-tw/"
     }
   ]
 }
