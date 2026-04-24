@@ -28,7 +28,8 @@ def fetch_langpacks() -> list:
         resp.raise_for_status()
         html = resp.text
 
-    pattern = r'firefox-(\d+\.\d+a\d+)\.([\w-]+)\.langpack\.xpi'
+    highest_version = "100.0a1"
+    pattern = r"firefox-(\d+\.\d+a\d+)\.([\w-]+)\.langpack\.xpi"
     matches = re.findall(pattern, html)
 
     seen = set()
@@ -40,33 +41,44 @@ def fetch_langpacks() -> list:
 
     results = []
     for i, (version, locale) in enumerate(unique_matches, start=1):
+        if version > highest_version:
+            highest_version = version
         xpi_url = f"{FTP_BASE}firefox-{version}.{locale}.langpack.xpi"
-        results.append({
-            "id": i,
-            "current_compatible_version": {
+        results.append(
+            {
                 "id": i,
-                "file": {"url": xpi_url},
-                "files": [{"url": xpi_url, "platform": "all"}],
-                "reviewed": None,
-                "version": version,
-            },
-            "default_locale": "en-US",
-            "name": {"en-US": f"Firefox Language Pack for {locale}"},
-            "guid": f"langpack-{locale}@firefox.mozilla.org",
-            "slug": f"firefox-langpack-{locale.lower()}",
-            "target_locale": locale,
-            "type": "language",
-            "url": f"https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-{locale.lower()}/",
-        })
+                "current_compatible_version": {
+                    "id": i,
+                    "file": {"url": xpi_url},
+                    "files": [{"url": xpi_url, "platform": "all"}],
+                    "reviewed": None,
+                    "version": version,
+                },
+                "default_locale": "en-US",
+                "name": {"en-US": f"Firefox Language Pack for {locale}"},
+                "guid": f"langpack-{locale}@firefox.mozilla.org",
+                "slug": f"firefox-langpack-{locale.lower()}",
+                "target_locale": locale,
+                "type": "language",
+                "url": f"https://addons.mozilla.org/en-US/firefox/addon/firefox-langpack-{locale.lower()}/",
+            }
+        )
 
-    return results
+    return [
+        result
+        for result in results
+        if result["current_compatible_version"]["version"] == highest_version
+    ]
 
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--out", type=Path, default=DEFAULT_OUT)
-    parser.add_argument("--check", action="store_true",
-                        help="Exit 1 if the output would change (dry-run)")
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="Exit 1 if the output would change (dry-run)",
+    )
     args = parser.parse_args()
 
     results = fetch_langpacks()
