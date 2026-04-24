@@ -38,11 +38,13 @@ def fetch_langpacks() -> list:
         if m not in seen:
             seen.add(m)
             unique_matches.append(m)
+            if m[0] > highest_version:
+                highest_version = m[0]
+
+    unique_matches = [match for match in unique_matches if match[0] == highest_version]
 
     results = []
     for i, (version, locale) in enumerate(unique_matches, start=1):
-        if version > highest_version:
-            highest_version = version
         xpi_url = f"{FTP_BASE}firefox-{version}.{locale}.langpack.xpi"
         results.append(
             {
@@ -64,11 +66,7 @@ def fetch_langpacks() -> list:
             }
         )
 
-    return [
-        result
-        for result in results
-        if result["current_compatible_version"]["version"] == highest_version
-    ]
+    return results
 
 
 def main():
