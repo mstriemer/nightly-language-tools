@@ -5,16 +5,16 @@
       "current_compatible_version": {
         "id": 1,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ach.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ach.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ach.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ach.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -31,16 +31,16 @@
       "current_compatible_version": {
         "id": 2,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.af.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.af.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.af.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.af.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -57,16 +57,16 @@
       "current_compatible_version": {
         "id": 3,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.an.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.an.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.an.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.an.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -83,16 +83,16 @@
       "current_compatible_version": {
         "id": 4,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ar.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ar.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ar.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ar.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -109,16 +109,16 @@
       "current_compatible_version": {
         "id": 5,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ast.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ast.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ast.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ast.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -135,16 +135,16 @@
       "current_compatible_version": {
         "id": 6,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.az.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.az.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.az.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.az.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -161,16 +161,16 @@
       "current_compatible_version": {
         "id": 7,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.be.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.be.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.be.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.be.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -187,16 +187,16 @@
       "current_compatible_version": {
         "id": 8,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bg.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bg.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bg.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bg.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -213,16 +213,16 @@
       "current_compatible_version": {
         "id": 9,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bn.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bn.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bn.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bn.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -239,16 +239,16 @@
       "current_compatible_version": {
         "id": 10,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bo.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bo.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bo.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bo.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -265,16 +265,16 @@
       "current_compatible_version": {
         "id": 11,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bqi.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bqi.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bqi.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bqi.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -291,16 +291,16 @@
       "current_compatible_version": {
         "id": 12,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.br.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.br.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.br.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.br.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -317,16 +317,16 @@
       "current_compatible_version": {
         "id": 13,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.brx.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.brx.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.brx.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.brx.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -343,16 +343,16 @@
       "current_compatible_version": {
         "id": 14,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bs.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bs.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.bs.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.bs.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -369,16 +369,16 @@
       "current_compatible_version": {
         "id": 15,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ca-valencia.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ca-valencia.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ca-valencia.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ca-valencia.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -395,16 +395,16 @@
       "current_compatible_version": {
         "id": 16,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ca.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ca.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ca.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ca.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -421,16 +421,16 @@
       "current_compatible_version": {
         "id": 17,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.cak.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.cak.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.cak.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.cak.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -447,16 +447,16 @@
       "current_compatible_version": {
         "id": 18,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ckb.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ckb.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ckb.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ckb.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -473,16 +473,16 @@
       "current_compatible_version": {
         "id": 19,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.cs.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.cs.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.cs.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.cs.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -499,16 +499,16 @@
       "current_compatible_version": {
         "id": 20,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.cy.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.cy.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.cy.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.cy.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -525,16 +525,16 @@
       "current_compatible_version": {
         "id": 21,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.da.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.da.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.da.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.da.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -551,16 +551,16 @@
       "current_compatible_version": {
         "id": 22,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.de.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.de.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.de.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.de.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -577,16 +577,16 @@
       "current_compatible_version": {
         "id": 23,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.dsb.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.dsb.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.dsb.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.dsb.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -603,16 +603,16 @@
       "current_compatible_version": {
         "id": 24,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.el.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.el.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.el.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.el.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -629,16 +629,16 @@
       "current_compatible_version": {
         "id": 25,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.en-CA.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.en-CA.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.en-CA.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.en-CA.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -655,16 +655,16 @@
       "current_compatible_version": {
         "id": 26,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.en-GB.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.en-GB.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.en-GB.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.en-GB.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -681,16 +681,16 @@
       "current_compatible_version": {
         "id": 27,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.eo.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.eo.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.eo.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.eo.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -707,16 +707,16 @@
       "current_compatible_version": {
         "id": 28,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-AR.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-AR.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-AR.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-AR.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -733,16 +733,16 @@
       "current_compatible_version": {
         "id": 29,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-CL.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-CL.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-CL.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-CL.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -759,16 +759,16 @@
       "current_compatible_version": {
         "id": 30,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-ES.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-ES.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-ES.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-ES.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -785,16 +785,16 @@
       "current_compatible_version": {
         "id": 31,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-MX.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-MX.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.es-MX.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.es-MX.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -811,16 +811,16 @@
       "current_compatible_version": {
         "id": 32,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.et.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.et.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.et.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.et.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -837,16 +837,16 @@
       "current_compatible_version": {
         "id": 33,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.eu.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.eu.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.eu.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.eu.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -863,16 +863,16 @@
       "current_compatible_version": {
         "id": 34,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fa.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fa.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fa.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fa.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -889,16 +889,16 @@
       "current_compatible_version": {
         "id": 35,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ff.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ff.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ff.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ff.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -915,16 +915,16 @@
       "current_compatible_version": {
         "id": 36,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fi.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fi.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fi.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fi.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -941,16 +941,16 @@
       "current_compatible_version": {
         "id": 37,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fr.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fr.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fr.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fr.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -967,16 +967,16 @@
       "current_compatible_version": {
         "id": 38,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fur.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fur.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fur.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fur.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -993,16 +993,16 @@
       "current_compatible_version": {
         "id": 39,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fy-NL.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fy-NL.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.fy-NL.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.fy-NL.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1019,16 +1019,16 @@
       "current_compatible_version": {
         "id": 40,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ga-IE.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ga-IE.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ga-IE.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ga-IE.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1045,16 +1045,16 @@
       "current_compatible_version": {
         "id": 41,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gd.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gd.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gd.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gd.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1071,16 +1071,16 @@
       "current_compatible_version": {
         "id": 42,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gl.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gl.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gl.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gl.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1097,16 +1097,16 @@
       "current_compatible_version": {
         "id": 43,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gn.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gn.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gn.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gn.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1123,16 +1123,16 @@
       "current_compatible_version": {
         "id": 44,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gu-IN.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gu-IN.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.gu-IN.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.gu-IN.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1149,16 +1149,16 @@
       "current_compatible_version": {
         "id": 45,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.he.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.he.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.he.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.he.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1175,16 +1175,16 @@
       "current_compatible_version": {
         "id": 46,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hi-IN.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hi-IN.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hi-IN.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hi-IN.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1201,16 +1201,16 @@
       "current_compatible_version": {
         "id": 47,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hr.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hr.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hr.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hr.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1227,16 +1227,16 @@
       "current_compatible_version": {
         "id": 48,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hsb.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hsb.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hsb.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hsb.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1253,16 +1253,16 @@
       "current_compatible_version": {
         "id": 49,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hu.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hu.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hu.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hu.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1279,16 +1279,16 @@
       "current_compatible_version": {
         "id": 50,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hy-AM.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hy-AM.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hy-AM.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hy-AM.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1305,16 +1305,16 @@
       "current_compatible_version": {
         "id": 51,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hye.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hye.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.hye.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.hye.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1331,16 +1331,16 @@
       "current_compatible_version": {
         "id": 52,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ia.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ia.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ia.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ia.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1357,16 +1357,16 @@
       "current_compatible_version": {
         "id": 53,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.id.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.id.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.id.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.id.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1383,16 +1383,16 @@
       "current_compatible_version": {
         "id": 54,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.is.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.is.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.is.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.is.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1409,16 +1409,16 @@
       "current_compatible_version": {
         "id": 55,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.it.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.it.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.it.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.it.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1435,16 +1435,16 @@
       "current_compatible_version": {
         "id": 56,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ja.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ja.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ja.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ja.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1461,16 +1461,16 @@
       "current_compatible_version": {
         "id": 57,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ka.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ka.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ka.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ka.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1487,16 +1487,16 @@
       "current_compatible_version": {
         "id": 58,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.kab.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.kab.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.kab.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.kab.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1513,16 +1513,16 @@
       "current_compatible_version": {
         "id": 59,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.kk.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.kk.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.kk.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.kk.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1539,16 +1539,16 @@
       "current_compatible_version": {
         "id": 60,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.km.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.km.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.km.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.km.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1565,16 +1565,16 @@
       "current_compatible_version": {
         "id": 61,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.kn.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.kn.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.kn.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.kn.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1591,16 +1591,16 @@
       "current_compatible_version": {
         "id": 62,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ko.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ko.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ko.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ko.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1617,16 +1617,16 @@
       "current_compatible_version": {
         "id": 63,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lij.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lij.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lij.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lij.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1643,16 +1643,16 @@
       "current_compatible_version": {
         "id": 64,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lo.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lo.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lo.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lo.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1669,16 +1669,16 @@
       "current_compatible_version": {
         "id": 65,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lt.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lt.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lt.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lt.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1695,16 +1695,16 @@
       "current_compatible_version": {
         "id": 66,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ltg.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ltg.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ltg.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ltg.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1721,16 +1721,16 @@
       "current_compatible_version": {
         "id": 67,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lv.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lv.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.lv.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.lv.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1747,16 +1747,16 @@
       "current_compatible_version": {
         "id": 68,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.meh.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.meh.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.meh.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.meh.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1773,16 +1773,16 @@
       "current_compatible_version": {
         "id": 69,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.mk.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.mk.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.mk.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.mk.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1799,16 +1799,16 @@
       "current_compatible_version": {
         "id": 70,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ml.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ml.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ml.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ml.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1825,16 +1825,16 @@
       "current_compatible_version": {
         "id": 71,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.mr.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.mr.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.mr.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.mr.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1851,16 +1851,16 @@
       "current_compatible_version": {
         "id": 72,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ms.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ms.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ms.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ms.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1877,16 +1877,16 @@
       "current_compatible_version": {
         "id": 73,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.my.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.my.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.my.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.my.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1903,16 +1903,16 @@
       "current_compatible_version": {
         "id": 74,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.nb-NO.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.nb-NO.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.nb-NO.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.nb-NO.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1929,16 +1929,16 @@
       "current_compatible_version": {
         "id": 75,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ne-NP.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ne-NP.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ne-NP.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ne-NP.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1955,16 +1955,16 @@
       "current_compatible_version": {
         "id": 76,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.nl.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.nl.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.nl.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.nl.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -1981,16 +1981,16 @@
       "current_compatible_version": {
         "id": 77,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.nn-NO.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.nn-NO.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.nn-NO.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.nn-NO.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2007,16 +2007,16 @@
       "current_compatible_version": {
         "id": 78,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.oc.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.oc.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.oc.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.oc.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2033,16 +2033,16 @@
       "current_compatible_version": {
         "id": 79,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pa-IN.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pa-IN.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pa-IN.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pa-IN.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2059,16 +2059,16 @@
       "current_compatible_version": {
         "id": 80,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pl.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pl.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pl.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pl.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2085,16 +2085,16 @@
       "current_compatible_version": {
         "id": 81,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pt-BR.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pt-BR.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pt-BR.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pt-BR.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2111,16 +2111,16 @@
       "current_compatible_version": {
         "id": 82,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pt-PT.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pt-PT.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.pt-PT.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.pt-PT.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2137,16 +2137,16 @@
       "current_compatible_version": {
         "id": 83,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.rm.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.rm.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.rm.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.rm.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2163,16 +2163,16 @@
       "current_compatible_version": {
         "id": 84,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ro.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ro.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ro.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ro.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2189,16 +2189,16 @@
       "current_compatible_version": {
         "id": 85,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ru.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ru.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ru.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ru.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2215,16 +2215,16 @@
       "current_compatible_version": {
         "id": 86,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sat.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sat.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sat.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sat.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2241,16 +2241,16 @@
       "current_compatible_version": {
         "id": 87,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sc.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sc.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sc.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sc.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2267,16 +2267,16 @@
       "current_compatible_version": {
         "id": 88,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.scn.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.scn.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.scn.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.scn.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2293,16 +2293,16 @@
       "current_compatible_version": {
         "id": 89,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sco.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sco.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sco.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sco.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2319,16 +2319,16 @@
       "current_compatible_version": {
         "id": 90,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.si.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.si.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.si.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.si.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2345,16 +2345,16 @@
       "current_compatible_version": {
         "id": 91,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sk.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sk.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sk.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sk.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2371,16 +2371,16 @@
       "current_compatible_version": {
         "id": 92,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.skr.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.skr.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.skr.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.skr.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2397,16 +2397,16 @@
       "current_compatible_version": {
         "id": 93,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sl.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sl.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sl.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sl.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2423,16 +2423,16 @@
       "current_compatible_version": {
         "id": 94,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.son.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.son.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.son.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.son.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2449,16 +2449,16 @@
       "current_compatible_version": {
         "id": 95,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sq.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sq.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sq.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sq.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2475,16 +2475,16 @@
       "current_compatible_version": {
         "id": 96,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sr.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sr.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sr.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sr.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2501,16 +2501,16 @@
       "current_compatible_version": {
         "id": 97,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sv-SE.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sv-SE.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.sv-SE.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.sv-SE.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2527,16 +2527,16 @@
       "current_compatible_version": {
         "id": 98,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.szl.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.szl.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.szl.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.szl.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2553,16 +2553,16 @@
       "current_compatible_version": {
         "id": 99,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ta.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ta.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ta.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ta.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2579,16 +2579,16 @@
       "current_compatible_version": {
         "id": 100,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.te.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.te.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.te.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.te.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2605,16 +2605,16 @@
       "current_compatible_version": {
         "id": 101,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.tg.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.tg.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.tg.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.tg.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2631,16 +2631,16 @@
       "current_compatible_version": {
         "id": 102,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.th.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.th.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.th.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.th.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2657,16 +2657,16 @@
       "current_compatible_version": {
         "id": 103,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.tl.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.tl.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.tl.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.tl.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2683,16 +2683,16 @@
       "current_compatible_version": {
         "id": 104,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.tr.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.tr.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.tr.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.tr.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2709,16 +2709,16 @@
       "current_compatible_version": {
         "id": 105,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.trs.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.trs.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.trs.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.trs.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2735,16 +2735,16 @@
       "current_compatible_version": {
         "id": 106,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.uk.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.uk.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.uk.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.uk.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2761,16 +2761,16 @@
       "current_compatible_version": {
         "id": 107,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ur.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ur.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.ur.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.ur.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2787,16 +2787,16 @@
       "current_compatible_version": {
         "id": 108,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.uz.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.uz.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.uz.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.uz.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2813,16 +2813,16 @@
       "current_compatible_version": {
         "id": 109,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.vi.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.vi.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.vi.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.vi.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2839,16 +2839,16 @@
       "current_compatible_version": {
         "id": 110,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.wo.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.wo.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.wo.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.wo.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2865,16 +2865,16 @@
       "current_compatible_version": {
         "id": 111,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.xh.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.xh.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.xh.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.xh.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2891,16 +2891,16 @@
       "current_compatible_version": {
         "id": 112,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.zh-CN.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.zh-CN.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.zh-CN.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.zh-CN.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
@@ -2917,16 +2917,16 @@
       "current_compatible_version": {
         "id": 113,
         "file": {
-          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.zh-TW.langpack.xpi"
+          "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.zh-TW.langpack.xpi"
         },
         "files": [
           {
-            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-153.0a1.zh-TW.langpack.xpi",
+            "url": "https://ftp.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/linux-x86_64/xpi/firefox-154.0a1.zh-TW.langpack.xpi",
             "platform": "all"
           }
         ],
         "reviewed": null,
-        "version": "153.0a1"
+        "version": "154.0a1"
       },
       "default_locale": "en-US",
       "name": {
